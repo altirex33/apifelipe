@@ -1,0 +1,182 @@
+{
+   "checksum": "13dd56a0690d531aa3e943bad83a32f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "c57ef90d-b003-42cb-aab4-f47c352247fa",
+            "id": "10",
+            "name": "Operador | Deriv",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.deriv.com/?lang=ES",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "26c3cc6a-2d59-420a-8d80-65168a823a87",
+            "id": "11",
+            "name": "Currency Strength Meter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.livecharts.co.uk/currency-strength.php",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "2896f4cd-448a-4585-a8d4-a9f04a567ca0",
+            "id": "12",
+            "name": "Gráfico de Forex en tiempo real - Investing.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://es.investing.com/charts/forex-charts",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "0b1755a6-cf89-4daa-9ae1-b004424765fc",
+            "id": "13",
+            "name": "TradingView: siga todos los mercados",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://es.tradingview.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13372522832981372",
+            "date_last_used": "0",
+            "guid": "4f5458fe-9c5e-497f-aa94-40602c1ac6bf",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?hl=es#inbox",
+            "visit_count": 1
+         }, {
+            "date_added": "13372522901900866",
+            "date_last_used": "0",
+            "guid": "dcf05a8b-14f9-4c15-8dca-635aa8ba3d62",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/maps",
+            "visit_count": 1
+         }, {
+            "date_added": "13372905952244791",
+            "date_last_used": "13377790335646235",
+            "guid": "5cf7532b-ef56-4be7-951c-255412ac00d8",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "youtube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 22
+         }, {
+            "date_added": "13372991959558777",
+            "date_last_used": "0",
+            "guid": "fb7f60a2-cc30-40f3-9bf0-7b8d82022527",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CFTC ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cftc.gov/MarketReports/index.htm",
+            "visit_count": 1
+         }, {
+            "date_added": "13390689309528717",
+            "date_last_used": "0",
+            "guid": "336fd00d-37ea-4f31-84e8-f24f1f8af84d",
+            "id": "7",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13390689309528104",
+            "date_last_used": "0",
+            "guid": "86e2190f-cd6b-410d-8d50-b914e1b5b094",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13390689309302330",
+         "date_last_used": "0",
+         "date_modified": "13390689309528717",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13371684330817792",
+            "date_last_used": "0",
+            "date_modified": "13371684330817792",
+            "guid": "4d09fa33-ff8d-4d61-898d-fd64aaa0b137",
+            "id": "8",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13371684330817914",
+            "date_last_used": "0",
+            "date_modified": "13371684330817914",
+            "guid": "27eaa3f3-1210-407a-9726-d74eafd53f9f",
+            "id": "9",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13390689309302332",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13390689309302334",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCIAFAq2TAQAAEgAqGGdQZlgxNEhkTXMrQWw4VVhPVHhLZlE9PUgDoAYHEq0BCBESqAEKHG03NTNxK3U4THZxcDAxc20wSzU1VmdZQmZQaz0SJGZiN2Y2MGEyLWNjMzAtNDBmMy05YmYwLTdiOGQ4MjAyMjUyNxgAIAIoADDq3v+QuTI4hYfknacyQN+TxpTpMkocVi9oNWcxMG1IaC92c3FSZUxsZnhobjBUTGt3PVofIh39NzZvdFcydG1qVjFxOFlISjNFT1BBeXRwQ3ZzPWXw0UCfwj4CYAUSrQEIEBKoAQocRVE5dmFlZ0J1QkVsbVdZWVp3aXl6TDMzRThvPRIkNWNmNzUzMmItZWY1Ni00YmU3LTk1MWMtMjU1NDEyYWMwMGQ4GAAgAigAMP+KiOi6MjjnzeL0pjJA3ZPGlOkyShx5Y0lTZVYxUzRuL3BSUTM5MmpmSGEyUUpNZjA9Wh8iHftxVWM1U2JCalB2aUs1eDgxeis4SjJSaDVVdUU9Zf2cjErCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ3MTQ1OTc4My01ZGIwLTVhYzctYjczZi02MTYwMWRjZjA0ZDMYACAAKAAwyqnWkbYxOLKu1pG2MUCyrtaRtjFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrQEIDhKoAQocbXU4UVhDUGg3RXExc0o3SmpkNEpPZDVOa0pnPRIkNGY1NDU4ZmUtOWM1ZS00OTdmLWFhOTQtNDA2MDJjMWFjNmJmGAAgAigAMOXe/5C5MjjKi4u+pTJA3ZPGlOkyShx2bzV0aDN1TUR2T2d6OUMxU3FEY25aclQ5dUU9Wh8iHe9ZTHlFWkxkSmZOVGdIRFJFS2lxYzlJalJyS1k9ZZs9hbbCPgJgBRKtAQgPEqgBChxudThQSG9ka3dJOHh5eFd6MFJPWWt5amZPdnM9EiRkY2YwNWE4Yi0xNGY5LTRjMTUtOGRjYS02MzVhYThiYTNkNjIYACACKAAw5t7/kLkyOOqmj76lMkDdk8aU6TJKHHRjVCthYjBKekwzcXhmZGpZbW5BVU1OYS94bz1aHyId91ptTnZQT2U4TTdONkZlRW5sNU5wWlFPZXUzWT1lPWyFEcI+AmAFEq0BCA0SqAEKHHRuNStBSEN6R25aTEVwQlVXNXVwZWdhZmxsZz0SJDBiMTc1NWE2LWNmODktNGRhYS05YWUxLWIwMDQ0MjQ3NjVmYxgAIAIoADDn3v+QuTI4koOhrqIyQNyTxpTpMkocZ1NrYzhnMnVqMWNQSTVJZmpzUU1zaFEvb1I4PVofIh3eR2FxSkJLN1lmYTA2b1J1WWVJNC9XbVI2OHdrPWWNVnE+wj4CYAUSrAEIChKnAQocZ0E1d2NBaTdicldEZTJPTHg0bHIyaWplSnlNPRIkYzU3ZWY5MGQtYjAwMy00MmNiLWFhYjQtZjQ3YzM1MjI0N2ZhGAAgAigAMOje/5C5MjizgqGuojJA3JPGlOkyShxuTzRoZnl2VEhpVUlTL25DSElHcHVieGtyeU09Wh4iHHYxWWx3aDBQMmJFRW5oUEpDMFlRMndSUHh3VT1lFxTDAMI+AmAFEqwBCAkSpwEKHFl0NUlYU2lHTUVPMVFBOHpMUW9XTWtoRXpWTT0SJDI3ZWFhM2YzLTEyMTAtNDA3YS05NzI2LWQ3NGVhZmQ1M2Y5ZhgAIAAoADCRgKGuojI4zYGhrqIyQM2Boa6iMkocZ09EWElNemJOUmgwRjkxaThoNkRxTThnSTQwPVoeIhx6VUJMbVFjNG5BeFB6VWNiMktVVDVlNndEeXc9ZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkN2VjNTMwYi0wY2M1LTUxNjctOWRkNS01NTFjYWNiZDEzNDEYACAAKAAwxanWkbYxOP2t1pG2MUD9rdaRtjFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIDBKoAQocZkkyK0hvSktBQzdxQTNSMHljbXJHaVEwRkpjPRIkMjg5NmY0Y2QtNDQ4YS00NTg1LWE4ZDQtYTlmMDRhNTY3Y2EwGAAgAigAMOTe/5C5MjiOgqGuojJA3JPGlOkyShxqYXNHMStIamJVcTczajI2MDZxREQzK3NsMzQ9Wh8iHb1qbzdVaS8wdnpXaWZKMUNIWDZnTFR1bGh4OWc9ZWA5umDCPgJgBRKsAQgLEqcBChxjaHVQWmlXWVdpaVdGQVZjQmxuUU1iL0t1a1E9EiQyNmMzY2M2YS0yZDU5LTQyMGEtOGQ4MC02NTE2OGE4MjNhODcYACACKAAw497/kLkyOPKBoa6iMkDck8aU6TJKHDVmRDg1UFkrdytHTXdtdXVYaHhUYUE3aUI1VT1aHiIcekM3ejM3NUhkTEdjTXh5ZnJiQVgrWmJsL0VFPWVFcLlWwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNWU1MjY3NzgtNTIyMi01NDY0LWFkYTgtNTU3MGRmOGVmY2ZkGAAgACgAMMSp1pG2MTjnrdaRtjFA563WkbYxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAgSpwEKHFNjd3NHVENpVk02TzZpWXp3bmxOalNVd1NjRT0SJDRkMDlmYTMzLWZmOGQtNGQ2MS04OThkLWZkNjRhYWEwYjEzNxgAIAAoADCXgKGuojI4uYOhrqIyQLmDoa6iMkoceEIydisvWi95QzRheVpVMENCL29wRmtlNjRNPVoeIhxhd2pjNzdiTDJyWnBkcytLRUFvZ1pzS2dHYmM9ZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
